@@ -90,9 +90,7 @@ import {
         <Left>
           <Logo>Amazon.</Logo>
           <Desc>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don’t look even slightly believable.
+           Sell on Amazon, Protect and build your brands, Amazon Global Selling, Advertise your Products.
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
