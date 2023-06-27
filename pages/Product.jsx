@@ -127,7 +127,7 @@ const Product = () => {
         <InfoContainer>
           <Title>Denim Jumpsuit</Title>
           <Desc>
-           Men's Slim Fit Collar Full Sleeve Denim Casual Shirt.
+           Women's Slim Fit Collar Full Sleeve Denim Casual Shirt.
           </Desc>
           <Price>$ 20</Price>
           <FilterContainer>
