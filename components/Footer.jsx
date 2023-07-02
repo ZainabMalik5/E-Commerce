@@ -90,7 +90,7 @@ import {
         <Left>
           <Logo>Amazon.</Logo>
           <Desc>
-           Sell on Amazon, Protect and build your brands, Amazon Global Selling, 
+           Sell on Wardrobe, Protect and build your brands, Amazon Global Selling, 
               Advertise your Products.
           </Desc>
           <SocialContainer>
