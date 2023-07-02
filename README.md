@@ -1,5 +1,5 @@
 
-# E-Commerce Website
+# The Wardrobe-E-Commerce Website
 
 •	An e-commerce website build using using Mongo DB,Express js,React js,Node js.
 •	 Main components include homepage showing navbar, category items with options of like and add to cart,
