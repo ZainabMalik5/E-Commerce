@@ -78,7 +78,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>AMAZON.</Logo>
+          <Logo>WARDROBE.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
