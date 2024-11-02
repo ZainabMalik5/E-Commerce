@@ -90,9 +90,10 @@ const Footer = () => {
       <Left>
         <Logo>Wardrobe</Logo>
         <Desc>
-          There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don’t look even slightly believable.
+        
+    Sell on Wardrobe,Sell under Wardrobe Accelerator,Protect and Build Your Brand,Wardrobe Global Selling,
+    Supply to Wardrobe,Advertise Your Products,Wardrobe Pay on Merchants
+
         </Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
