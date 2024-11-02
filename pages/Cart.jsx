@@ -248,7 +248,7 @@ const Cart = () => {
               <SummaryItemPrice>Rs {cart.total}</SummaryItemPrice>
             </SummaryItem>
             <StripeCheckout
-              name="Lama Shop"
+              name="Wardrobe"
               image="https://avatars.githubusercontent.com/u/1486366?v=4"
               billingAddress
               shippingAddress
