@@ -1,12 +1,11 @@
 
 # The Wardrobe-E-Commerce Website
 
-•	An e-commerce website build using using Mongo DB,Express js,React js,Node js.
-•	 Main components include homepage showing navbar, category items with options of like and add to cart,
-product list, newsletter for updates ,footer and Login page.
-•	Cart contains details of each item like price,color and size and payment options
-and also an order summary of total price of all products bought.
-•	Mongo DB acts as a database for the application.
+• Developed a user-friendly shopping cart website with product categorization, detailed product pages, and interactive
+features for liking and adding items to the cart.
+• Implemented JWT for secure login authentication and integrated Stripe payment gateway using Node.js.
+• Utilized React for the front end, resulting in a highly responsive and intuitive user interface.
+• Integrated MongoDB as the database for storing user and products’ data, ensuring efficient and secure data management.
 
 
 
